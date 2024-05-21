@@ -113,7 +113,7 @@ body {
 
 /* Add margin to move visualization down */
 #barCoin {
-    margin-top: 150px; /* Adjust the value to your desired margin */
+    margin-top: 200px; /* Adjust the value to your desired margin */
     max-width: 600px; /* Set maximum width */
     margin-left: auto; /* Center align */
     margin-right: auto; /* Center align */
