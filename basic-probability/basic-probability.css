@@ -1,5 +1,5 @@
 body {
-    background-color: #D6EFFA;
+    background-color: #191919;
 }
 
 .header {
@@ -113,7 +113,7 @@ body {
 
 /* Add margin to move visualization down */
 #barCoin {
-    margin-top: 250px; /* Adjust the value to your desired margin */
+    margin-top: 150px; /* Adjust the value to your desired margin */
     max-width: 600px; /* Set maximum width */
     margin-left: auto; /* Center align */
     margin-right: auto; /* Center align */
