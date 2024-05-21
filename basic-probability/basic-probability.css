@@ -3,7 +3,7 @@ body {
 }
 
 .header {
-    background-color: #D6EFFA;
+    background-color: #191919;
     background: -webkit-linear-gradient(rgba(214, 239, 250, 1), rgba(214, 239, 250, 1), rgba(214, 239, 250, 0));
     background: -o-linear-gradient(rgba(214, 239, 250, 1), rgba(214, 239, 250, 1), rgba(214, 239, 250, 0));
     background: -moz-linear-gradient(rgba(214, 239, 250, 1), rgba(214, 239, 250, 1), rgba(214, 239, 250, 0));
@@ -11,7 +11,7 @@ body {
 }
 
 .col-left {
-    background-color: #D6EFFA;
+    background-color: #191919;
 }
 
 .action-buttons ul a li:hover {
